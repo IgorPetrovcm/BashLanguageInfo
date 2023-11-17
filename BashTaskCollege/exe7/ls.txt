@@ -1,0 +1,2 @@
+ls (1)               - list directory contents
+ls (1p)              - list directory contents 

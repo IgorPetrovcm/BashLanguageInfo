@@ -1,0 +1,2 @@
+cd (1p)              - change the working directory
+cd (n)               - Change working directory 
