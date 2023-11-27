@@ -1,8 +1,13 @@
 #!/bin/bash
-for ((i=0;i<10;i++))
-do
-    echo "input command name: "
-    read commandName
-    whatis $commandName
-done
+whatis $1
+whatis $2
+whatis $3
+whatis $4
+whatis $5
+whatis $6
+whatis $7
+whatis $8
+whatis $9
+shift
+whatis $9
 exit 0
