@@ -1,6 +1,6 @@
 #!/bin/bash
+newdirName=$1
 echo "Input directory name "
-read newdirName
 mydir=$(pwd)
 newdir=$mydir/$newdirName
 mkdir $newdir
